@@ -16,6 +16,8 @@
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+  <img align="left" alt="Github" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" style="padding-right:10px;" />
+  <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/bitbucket.svg" style="padding-right:10px;" />
 <img align="left" alt="Ionic" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/ionic.svg" style="padding-right:10px;" />
 <img align="left" alt="Capacitor" width="26px" src="https://img.icons8.com/ios-glyphs/512/capacitor-symbol.png" style="padding-right:10px;" /></p>
 <br />
