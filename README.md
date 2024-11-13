@@ -1,6 +1,6 @@
 ## Hi there, I'm Ali Sezer👋
 
-### I'm a Junior Developer!!
+### I'm a Computer Engineer!!
 * 🖥️  See my portfolio at [linkedin](http://www.linkedin.com/in/aliszrylmz/)
 * ✉️  You can contact me at [mail](mailto:yilmazalisezer@gmail.com)
 
